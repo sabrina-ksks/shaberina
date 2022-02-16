@@ -12,8 +12,8 @@ botの招待は[こちら](https://bit.ly/invite-shaberina)（2022/2/16現在，
 - [必要なもの](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE)
 - [準備](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E6%BA%96%E5%82%99)
 - [実行方法](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E5%AE%9F%E8%A1%8C%E6%96%B9%E6%B3%95)
-- [注意点](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E6%B3%A8%E6%84%8F%E7%82%B9)
-- [ライセンス](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)
+- [その他](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E7%AD%89)
+- [ライセンス等](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%81%9D%E3%81%AE%E4%BB%96)
 
 # デモ動画
 https://user-images.githubusercontent.com/83697982/154139889-170c2a1a-e81b-497a-9601-3baf9c4544c4.mp4
@@ -80,15 +80,16 @@ pip install -r requirement.txt
 python discordbot.py
 ```
 
-# 注意点
+# その他
 当方では，大規模辞書「[NEologd](https://github.com/neologd/mecab-ipadic-neologd/blob/master/README.ja.md)」およびアクセント推定ソフト「[tdmelodic](https://github.com/PKSHATechnology-Research/tdmelodic)」を用いることで，
 OpenJtalkに付属のものと比較して語彙数を大幅に増加させた辞書を作成し，botを運用しています．
 
 
-# ライセンス
+# ライセンス等
 「しゃべりな」のソースコードは配布を目的としたものではありません．利用は個人的な用途のみとしてください．
 
 - Openjtalk：Modified BSD license
 - 音響モデル（mei,takumi）：Creative Commons Attribution 3.0 license
 - Neologd：Apache License 2.0
 - tdmelodic：BSD 3-Clause License
+- イラスト：ノーコピーライトガール
