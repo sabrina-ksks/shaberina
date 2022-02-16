@@ -86,4 +86,9 @@ OpenJtalkに付属のものと比較して語彙数を大幅に増加させた�
 
 
 # ライセンス
-「しゃべりな」のソースコードは配布を目的としたものではありません．利用は個人的な用途のみとしてください．  
+「しゃべりな」のソースコードは配布を目的としたものではありません．利用は個人的な用途のみとしてください．
+
+- Openjtalk：Modified BSD license
+- 音響モデル（mei,takumi）：Creative Commons Attribution 3.0 license
+- Neologd：Apache License 2.0
+- tdmelodic：BSD 3-Clause License
