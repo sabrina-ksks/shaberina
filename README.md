@@ -2,6 +2,7 @@
 こちらはDiscordの読み上げbot「しゃべりな」のソースコードです．音声合成エンジンにはOpenJTalkを使用しています．  
 
 (2023年12月より無期限運用停止)
+
 botの招待は[こちら](https://bit.ly/invite-shaberina)
 
 ![しゃべりな](https://user-images.githubusercontent.com/83697982/154113716-94acc059-e772-4c34-829f-b1ad1da3c05f.png)
