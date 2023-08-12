@@ -8,15 +8,15 @@ botの招待は[こちら](https://bit.ly/invite-shaberina)
 ![しゃべりな](https://user-images.githubusercontent.com/83697982/154113716-94acc059-e772-4c34-829f-b1ad1da3c05f.png)
 
 # 目次
-- [デモ動画](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB)
-- [特徴](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)
-- [コマンド](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)
-- [開発環境](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83)
-- [必要なもの](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E5%BF%85%E8%A6%81%E3%81%AA%E3%82%82%E3%81%AE)
-- [準備](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E6%BA%96%E5%82%99)
-- [実行方法](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E5%AE%9F%E8%A1%8C%E6%96%B9%E6%B3%95)
-- [その他](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E7%AD%89)
-- [ライセンス等](https://github.com/sabrina9561/shaberina/edit/master/README.md#%E3%81%9D%E3%81%AE%E4%BB%96)
+- [デモ動画](#デモ動画)
+- [特徴](#特徴)
+- [コマンド](#コマンド)
+- [開発環境](#開発環境)
+- [必要なもの](#必要なもの)
+- [準備](#準備)
+- [実行方法](#実行方法)
+- [その他](#その他)
+- [ライセンス等](#ライセンス等)
 
 # デモ動画
 https://user-images.githubusercontent.com/83697982/154139889-170c2a1a-e81b-497a-9601-3baf9c4544c4.mp4
